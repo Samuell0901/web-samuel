@@ -1,0 +1,58 @@
+body {
+    background-color: #fcf9f9;
+    color: #333;
+    margin: 0;
+}
+header{
+    background-color: #0a3d62;  
+    text-align: center; 
+    color: rgb(255, 255, 255);
+    padding: 20px 20px;
+    font-family: 'Segoe UI', Arial, sans-serif;;
+    font-size:large;
+    
+ }
+  
+ nav {
+    background-color: rgb(65, 168, 224);
+    padding: 20px;
+    display:flex ;
+    justify-content: center;
+ }
+
+ nav a{
+    color:aliceblue;
+    text-decoration:none;
+    margin:6px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Arial, sans-serif;
+ }
+ 
+ .Gerais {
+    text-align: center;
+    margin: 100px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+h2 {
+    color: #3965a1;
+    padding-bottom: 10px;
+;
+}
+
+table {
+    width: 100%;
+    margin-top: 5px;
+}
+
+
+th, td {
+    padding: px;
+    text-align: center;
+}
+
+th {
+    background-color: #e6f2ff;
+}
